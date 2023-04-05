@@ -1,2 +1,2 @@
 # Labecommerce_backend
-Uma loja com virtual de materiais esportivos 
+Uma loja virtual de materiais esportivos 
